@@ -1,0 +1,13 @@
+body{
+	background-color: black;
+}
+label{
+	color: white;
+	font-size: 50px;
+}
+input{
+	font-size: 60px;
+}
+button{
+	font-size: 60px;
+}
